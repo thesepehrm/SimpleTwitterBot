@@ -1,0 +1,15 @@
+{
+  "name": "andarahwalatbot",
+  "version": "1.0.0",
+  "description": "A Simple twitter bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sepehr Mohammadi",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
